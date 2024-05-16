@@ -1,0 +1,4 @@
+baseURL = 'https://Smallman.Digital/'
+languageCode = 'en-us'
+title = 'Rossa Smallman'
+theme = 'beautifulHugo'
